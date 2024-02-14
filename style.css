@@ -1,16 +1,16 @@
 @font-face {
 	font-family: 'vibe';
-	src: url(./fonts/GoodVibesCyr.ttf);
+	src: url(GoodVibesCyr.ttf);
 }
 
 @font-face {
 	font-family: 'h';
-	src: url(./fonts/Cormorant-Bold.ttf);
+	src: url(Cormorant-Bold.ttf);
 }
 
 @font-face {
 	font-family: 'p';
-	src: url(./fonts/OpenSans-Regular.ttf);
+	src: url(OpenSans-Regular.ttf);
 }
 
 body {
